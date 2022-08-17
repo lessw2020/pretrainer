@@ -1,1 +1,1 @@
-from .checks import verify_bf16
+from .checks import bf16_ready
